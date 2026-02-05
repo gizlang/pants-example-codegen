@@ -1,2 +1,2 @@
-protobuf==3.20.1
+protobuf==6.33.5
 thrift==0.15.0
